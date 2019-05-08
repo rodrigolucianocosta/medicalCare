@@ -9,7 +9,7 @@ from opal import models
 Core Opal models - these inherit from the abstract data models in
 opal.models but can be customised here with extra / altered fields.
 """
-class Demographics(models.Demographics): pass
+class Demographics(models.Demographics):pass
 class Location(models.Location): pass
 class Allergies(models.Allergies): pass
 class Diagnosis(models.Diagnosis): pass
@@ -26,3 +26,4 @@ class PatientConsultation(models.PatientConsultation): pass
 """
 End Opal core models
 """
+
