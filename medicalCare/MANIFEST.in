@@ -1,0 +1,3 @@
+recursive-include medicalCare/static *
+recursive-include medicalCare/assets *
+recursive-include medicalCare/templates *
